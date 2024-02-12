@@ -13,5 +13,5 @@ Just a list of links for open spectrometer designs in hardware, research, softwa
 
 ## Open Datasets
 
-- Chemical Compound Data: TBD
+- Chemical Compound Data: https://pubchem.ncbi.nlm.nih.gov
 - Cayman Spectral Library (need to verify license): https://www.caymanchem.com/forensics/publications/csl
